@@ -12,14 +12,19 @@
 	<wpt lat="45.197984" lon="19.572830">
 		<name>Koruški Vodopad</name>
 		<desc>
-<![CDATA[
 Lokacija: Na Sviloškom potoku blizu ušća u Dunav
 Tip: Vodopad
 Visina (m): 5
 Kol.vode: Tokom cele godine
 Poreklo: Prirodni
-]]>
-</desc>
+		</desc>
+		<cmt>
+Lokacija: Na Sviloškom potoku blizu ušća u Dunav
+Tip: Vodopad
+Visina (m): 5
+Kol.vode: Tokom cele godine
+Poreklo: Prirodni
+</cmt>
 	</wpt>
 	<wpt lat="45.181881" lon="19.600977">
 		<name>Žiganski Vodopad</name>
