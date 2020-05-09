@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="GPX Editor">
+	<metadata>
+	</metadata>
+	<wpt lat="44.937958" lon="21.188249">
+		<time>2020-04-20T09:02:18Z</time>
+		<name>Zagajicka brda</name>
+		<desc>Priroda</desc>
+	</wpt>
+	<wpt lat="44.812814" lon="21.330282">
+		<time>2020-04-20T09:06:02Z</time>
+		<name>Ramska Tvrdjava</name>
+		<desc>Tvrdjava</desc>
+	</wpt>
+	<wpt lat="44.235499" lon="19.867655">
+		<time>2020-04-20T09:10:10Z</time>
+		<name><![CDATA[Manastir Ćelije]]></name>
+		<desc>Manastir</desc>
+	</wpt>
+	<wpt lat="43.912548" lon="20.191350">
+		<time>2020-04-20T09:11:42Z</time>
+		<name>Kablar</name>
+		<desc>889m</desc>
+	</wpt>
+	<wpt lat="43.896382" lon="20.217433">
+		<ele>0.000000</ele>
+		<name><![CDATA[Ovčar]]></name>
+		<desc>985m</desc>
+	</wpt>
+</gpx>
