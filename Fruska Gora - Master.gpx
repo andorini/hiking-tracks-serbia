@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="GPX Editor">
+	<metadata>
+		<name><![CDATA[Fruškogorski vodopadi]]></name>
+		<author>
+			<name>Andor Luhovic</name>
+		</author>
+		<copyright>
+			<year>2020</year>
+		</copyright>
+	</metadata>
+	<wpt lat="45.197984" lon="19.572830">
+		<name><![CDATA[Koruški Vodopad]]></name>
+		<desc><![CDATA[Lokacija: Na Sviloškom potoku blizu ušća u Dunav
+Tip: Vodopad
+Visina (m): 5
+Kol.vode: Tokom cele godine
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.181881" lon="19.600977">
+		<name><![CDATA[Žiganski Vodopad]]></name>
+		<desc><![CDATA[Lokacija: Na Medvišu pritoci Sviloškog potoka
+Tip: Vodopad
+Visina (m): 2,5
+Kol.vode: Samo u proleće
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.146944" lon="19.615000">
+		<name>Vodopad Ravne</name>
+		<desc><![CDATA[Lokacija: Na pritoci Bujaka kod vile Ravne, a Bujak je pritoka Tekeniša
+Tip: Vodopad
+Visina (m): 2,5
+Kol.vode: Tokom cele godine
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.147500" lon="19.614444">
+		<name>Zeleni Vodopad</name>
+		<desc>Lokacija: Na pritoci Bujaka, nedaleko od vodopada Ravne
+Tip: Vodopad
+Visina (m): 3
+Kol.vode: Tokom cele godine
+Poreklo: Prirodni</desc>
+	</wpt>
+	<wpt lat="45.159031" lon="19.625878">
+		<name>Obadovo Vodopad</name>
+		<desc><![CDATA[Lokacija: Na pritoci Tekeniša, južno od sela Grabovo
+Tip: Kaskade
+Visina (m): 5
+Kol.vode: Leti presušuje
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.154722" lon="19.664444">
+		<name><![CDATA[Hajdučki Vodopad]]></name>
+		<desc><![CDATA[Lokacija: Na pritoci Ugljarskog potoka, a koji se uliva u potok Čitluk
+Tip: Slap
+Visina (m): 2,5
+Kol.vode: Leti presušuje
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.138611" lon="19.667222">
+		<name>Magdalenin Vodopad</name>
+		<desc><![CDATA[Lokacija: Na Ugljarskom potoku, pritoci Čitluka
+Tip: Vodopad
+Visina (m): 2,5
+Kol.vode: Tokom cele godine
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.144150" lon="19.665164">
+		<name><![CDATA[Kurjački Vodopad]]></name>
+		<desc>Lokacija: Na Ugljarskom potoku nizvodnije od Magdaleninog vodopada
+Tip: Vodopad
+Visina (m): 3
+Kol.vode: Tokom cele godine
+Poreklo: Prirodni</desc>
+	</wpt>
+	<wpt lat="45.175041" lon="19.685044">
+		<name><![CDATA[Žiljski Vodopad]]></name>
+		<desc><![CDATA[Lokacija: Na pritoci Dobrog potoka, a koji se uliva u Čerevićki potok
+Tip: Slap
+Visina (m): 4,5
+Kol.vode: Samo u proleće
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.168014" lon="19.697923">
+		<name>Vodopad Na Dobrom potoku</name>
+		<desc><![CDATA[Lokacija: Na Dobrom potoku ispod odmarališta Osovlje
+Tip: Vodopad
+Visina (m): 4
+Kol.vode: Tokom cele godine
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.147886" lon="19.700204">
+		<name>Nevenin Vodopad</name>
+		<desc>Lokacija: Na prvoj bezimenoj pritoci Potornja
+Tip: Vodopad
+Visina (m): 3,5
+Kol.vode: Tokom cele godine
+Poreklo: Prirodni</desc>
+	</wpt>
+	<wpt lat="45.147290" lon="19.691325">
+		<name>Gredeljski Vodopad</name>
+		<desc>Lokacija: Nalazi se na drugoj bezimenoj pritoci Potornja
+Tip: Slap
+Visina (m): 4
+Kol.vode: Tokom cele godine
+Poreklo: Prirodni</desc>
+	</wpt>
+	<wpt lat="45.187151" lon="19.701451">
+		<name><![CDATA[Šakotinački Vodopad]]></name>
+		<desc><![CDATA[Lokacija: Iznad zadnjih kuća sela Šakotinca na istoimenom potoku
+Tip: Vodopad
+Visina (m): 6
+Kol.vode: Leti presušuje
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.157444" lon="19.728420">
+		<name>Kozarski Vodopad</name>
+		<desc><![CDATA[Lokacija: Na izvorištu Kozarskog potoka koji protiče kroz Beočin
+Tip: Slap
+Visina (m): 7
+Kol.vode: Slabo ali ne presušuje
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.167814" lon="19.749984">
+		<name>Vodopad Dumbovo</name>
+		<desc><![CDATA[Lokacija: Na potoku Dumbovac između Rakovca i Beočina
+Tip: Vodopad
+Visina (m): 4
+Kol.vode: Tokom cele godine
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.167334" lon="19.752535">
+		<name>Kod sedam izvora</name>
+		<desc><![CDATA[Lokacija: Na pritoci Dumbovačkog potoka, nedaleko od Dumbovačkog vodopada
+Tip: Slap
+Visina (m): 2,5
+Kol.vode: Slabo, ali ne presušuje
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.192826" lon="19.772744">
+		<name><![CDATA[Vodopad Sa Šlicem]]></name>
+		<desc><![CDATA[Lokacija: Na potoku Banja pritoci Rakovačkog potoka
+Tip: Vodopad
+Visina (m): 3
+Kol.vode: Samo posle kiša i topljenja
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.168056" lon="19.774722">
+		<name><![CDATA[Rakovački Vodopad]]></name>
+		<desc><![CDATA[Lokacija: Na Rakovačkom potoku kod strelišta
+Tip: vodopad
+Visina (m): 3
+Kol.vode: Tokom cele godine
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.191978" lon="19.786761">
+		<name>Veliki Kestenski Vodopad</name>
+		<desc><![CDATA[Lokacija: Na bezimenoj pritoci Šandorovca između Ledinaca i Rakovca
+Tip: Kaskade
+Visina (m): 13
+Kol.vode: Leti presušuje
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.191608" lon="19.787559">
+		<name>Mali Kestenski Vodopad</name>
+		<desc><![CDATA[Lokacija: Na bezimenoj pritoci Šandorovca pored Velikog Kestenskog vodopada
+Tip: Kaskade
+Visina (m): 6
+Kol.vode: Leti presušuje
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.192283" lon="19.788114">
+		<name>Jadrankin Vodopad</name>
+		<desc><![CDATA[Lokacija: Na bezimenoj pritoci Šandorovca neposredno uz Mali i Veliki Kestenski vodopad
+Tip: Kaskade
+Visina (m): 4
+Kol.vode: Samo u proleće
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.173951" lon="19.896280">
+		<name><![CDATA[Stražilovski Vodopad]]></name>
+		<desc><![CDATA[Lokacija: Na Ešikovačkom potoku kod Stražilova
+Tip: Slap
+Visina (m): 2,5
+Kol.vode: Leti presušuje
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.128962" lon="19.649887">
+		<name>Vodopad Begovac</name>
+		<desc><![CDATA[Lokacija: Na pritoci Ugljara u slivu Rupčeva južnije od Grgurevačke pećine
+Tip: Kaskade
+Visina (m): 2
+Kol.vode: Leti presušuje
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.124707" lon="19.685708">
+		<name><![CDATA[Grabovački vodopad - Crni]]></name>
+		<desc><![CDATA[Lokacija: Na potoku Grabovac pritoci Mutalja, a južnije od Letenke
+Tip: Vodopad
+Visina (m): 3
+Kol.vode: Tokom cele godine
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.134407" lon="19.713248">
+		<name>Cincarski Vodopad</name>
+		<desc><![CDATA[Lokacija: Na Cincarskom potoku pritoci Čikaša
+Tip: Slap
+Visina (m): 3
+Kol.vode: Samo u proleće
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.127500" lon="19.721944">
+		<name>Rosovo Vodopad</name>
+		<desc><![CDATA[Lokacija: Na izvorišnom delu ovog potoka
+Tip: Vodopad
+Visina (m): 3
+Kol.vode: Leti presušuje
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.150680" lon="19.715902">
+		<name>Gavranov Vodopad</name>
+		<desc><![CDATA[Lokacija: Na izvorištu ovog potoka kod Crvenog Čota
+Tip: Vodopad
+Visina (m): 3
+Kol.vode: Samo posle kiša i topljenja
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.150373" lon="19.724786">
+		<name>Oljin Vodopad</name>
+		<desc><![CDATA[Lokacija: U izvorištu Srnećeg potoka
+Tip: Vodopad
+Visina (m): 2,5
+Kol.vode: Leti presušuje
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.139796" lon="19.730041">
+		<name><![CDATA[Srneći Vodopad]]></name>
+		<desc><![CDATA[Lokacija: Na istoimenom potoku, pritoci Rovače
+Tip: Vodopad
+Visina (m): 3
+Kol.vode: Tokom cele godine
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.136241" lon="19.738006">
+		<name>Nadin Vodopad</name>
+		<desc><![CDATA[Lokacija: Na pritoci Srnećeg potoka
+Tip: Kaskade
+Visina (m): 3
+Kol.vode: Tokom cele godine
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.143889" lon="19.769444">
+		<name><![CDATA[Dubočaš]]></name>
+		<desc><![CDATA[Lokacija: Na bezimenoj pritoci potoka Dubočaš ispod Vrdničke kule
+Tip: Vodopad
+Visina (m): 3
+Kol.vode: Samo posle kiša i topljenja
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.130833" lon="19.801111">
+		<name>Lazin Vir</name>
+		<desc>Lokacija: Na Morintovu na periferiji Vrdnika
+Tip: Vodopad
+Visina (m): 4
+Kol.vode: Tokom cele godine
+Poreklo: Prirodni</desc>
+	</wpt>
+	<wpt lat="45.128333" lon="19.836667">
+		<name>Elvirin Vodopad</name>
+		<desc><![CDATA[Lokacija: Na Iriškom potoku između Morintova i manastira novo Hopovo
+Tip: Vodopad
+Visina (m): 2
+Kol.vode: Tokom cele godine
+Poreklo: Prirodni]]></desc>
+	</wpt>
+	<wpt lat="45.127778" lon="19.875556">
+		<name><![CDATA[Kajnovački Vodopad]]></name>
+		<desc>Lokacija: Iznad sela Neradina
+Tip: Vodopad
+Visina (m): 2
+Kol.vode: Tokom cele godine
+Poreklo: Prirodni</desc>
+	</wpt>
+	<wpt lat="45.166389" lon="19.771111">
+		<name><![CDATA[Vodopad na Rakovačkom Strelištu Južni]]></name>
+		<desc><![CDATA[Lokacija: Na izlazu iz Rakovca u strelištu
+Tip: Kaskade
+Visina (m): 15
+Kol.vode: Samo posle kiša i topljenja
+Poreklo: Veštački]]></desc>
+	</wpt>
+	<wpt lat="45.167222" lon="19.770833">
+		<name><![CDATA[Vodopad na Rakovačkom Strelištu Severni]]></name>
+		<desc><![CDATA[Lokacija: Na izlazu iz Rakovca u strelištu neposredno pored Južnog
+Tip: Kaskade
+Visina (m): 10
+Kol.vode: Samo posle kiša i topljenja
+Poreklo: Veštački]]></desc>
+	</wpt>
+	<wpt lat="45.164884" lon="19.801922">
+		<name><![CDATA[Ledinački Zapadni Vodopad]]></name>
+		<desc><![CDATA[Lokacija: Iznad Ledinačkog jezera
+Tip: Kaskade
+Visina (m): 12
+Kol.vode: Tokom cele godine
+Poreklo: Veštački]]></desc>
+	</wpt>
+	<wpt lat="45.163986" lon="19.806026">
+		<name><![CDATA[Ledinački Istočni Vodopad]]></name>
+		<desc><![CDATA[Lokacija: Iznad Ledinačkog jezera
+Tip: Kaskade
+Visina (m): 20
+Kol.vode: Tokom cele godine
+Poreklo: Veštački]]></desc>
+	</wpt>
+	<wpt lat="45.203472" lon="19.911408">
+		<name>Parlog Vodopad</name>
+		<desc><![CDATA[Lokacija: U slivu potoka Selište između Petrovaradina i Sremskih Karlovaca
+Tip: Vodopad
+Visina (m): 2
+Kol.vode: Tokom cele godine
+Poreklo: Veštački]]></desc>
+	</wpt>
+	<wpt lat="45.224192" lon="19.445266">
+		<time>2020-05-09T07:30:53Z</time>
+		<name><![CDATA[Vinarija Tri međe i oblak]]></name>
+		<desc><![CDATA[Vinarija Tri međe i oblak je mala porodična vinarija koja je počela sa radom 2016. godine. Vinarija je smeštena u Neštinu, u veoma lepom i interesantnom prirodnom okruženju.
+
+Željka Dragičević
+0648641519]]></desc>
+	</wpt>
+	<wpt lat="45.172209" lon="20.148950">
+		<time>2020-05-09T07:34:01Z</time>
+		<name>Imanje JandaLa</name>
+		<desc>https://fruskac.net/rs/turizam/domacinstva/imanje-jandala</desc>
+	</wpt>
+</gpx>
