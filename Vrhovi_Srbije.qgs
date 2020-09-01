@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis version="3.12.2-București" projectname="" saveUser="andorini" saveUserFull="Andor Luhovic">
+<qgis saveUser="andorini" saveDateTime="2020-08-31T00:34:17" version="3.14.15-Pi" saveUserFull="Andor Luhovic" projectname="">
   <homePath path=""/>
   <title></title>
   <autotransaction active="0"/>
@@ -7,71 +7,58 @@
   <trust active="0"/>
   <projectCrs>
     <spatialrefsys>
-      <wkt>GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]]</wkt>
-      <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
-      <srsid>3452</srsid>
-      <srid>4326</srid>
-      <authid>EPSG:4326</authid>
-      <description>WGS 84</description>
-      <projectionacronym>longlat</projectionacronym>
-      <ellipsoidacronym>WGS84</ellipsoidacronym>
-      <geographicflag>true</geographicflag>
+      <wkt></wkt>
+      <proj4></proj4>
+      <srsid>0</srsid>
+      <srid>0</srid>
+      <authid></authid>
+      <description></description>
+      <projectionacronym></projectionacronym>
+      <ellipsoidacronym></ellipsoidacronym>
+      <geographicflag>false</geographicflag>
     </spatialrefsys>
   </projectCrs>
   <layer-tree-group>
     <customproperties/>
-    <layer-tree-layer name="svi vrhovi 5, waypoints" source="../../Documents/PSS/Vrhovi Srbije/_pss.rs/svi vrhovi 5.8.2020..gpx?type=waypoint" providerKey="gpx" checked="Qt::Checked" id="svi_vrhovi_5__waypoints_debe33e5_cdb9_441a_beb3_d18b893bf96d" expanded="1" legend_exp="">
+    <layer-tree-layer name="Vrhovi_u_Srbiji_za sajt" patch_size="-1,-1" source="../../Documents/PSS/Vrhovi Srbije/_pss.rs/Vrhovi_u_Srbiji_za sajt.csv?type=csv&amp;delimiter=;&amp;maxFields=10000&amp;detectTypes=yes&amp;xyDms=yes&amp;xField=IGD&amp;yField=SGŠ&amp;crs=EPSG:4326&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=no" providerKey="delimitedtext" id="Vrhovi_u_Srbiji_za_sajt_99fc19f8_6ff4_466a_b112_45c0a3b48638" checked="Qt::Checked" legend_exp="" expanded="1" legend_split_behavior="0">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer name="OpenStreetMap" source="type=xyz&amp;url=https://tile.openstreetmap.org/%7Bz%7D/%7Bx%7D/%7By%7D.png&amp;zmax=19&amp;zmin=0" providerKey="wms" checked="Qt::Checked" id="OpenStreetMap_81944271_11bd_413c_ac14_536711431ce7" expanded="1" legend_exp="">
+    <layer-tree-layer name="OpenStreetMap" patch_size="0,0" source="crs=EPSG:3857&amp;format&amp;type=xyz&amp;url=https://tile.openstreetmap.org/%7Bz%7D/%7Bx%7D/%7By%7D.png&amp;zmax=19&amp;zmin=0" providerKey="wms" id="OpenStreetMap_81944271_11bd_413c_ac14_536711431ce7" checked="Qt::Checked" legend_exp="" expanded="1" legend_split_behavior="0">
       <customproperties/>
     </layer-tree-layer>
     <custom-order enabled="0">
       <item>OpenStreetMap_81944271_11bd_413c_ac14_536711431ce7</item>
-      <item>svi_vrhovi_5__waypoints_debe33e5_cdb9_441a_beb3_d18b893bf96d</item>
+      <item>Vrhovi_u_Srbiji_za_sajt_99fc19f8_6ff4_466a_b112_45c0a3b48638</item>
     </custom-order>
   </layer-tree-group>
-  <snapping-settings enabled="0" mode="2" type="1" intersection-snapping="0" unit="1" tolerance="12">
+  <snapping-settings intersection-snapping="0" minScale="0" type="1" tolerance="12" maxScale="0" scaleDependencyMode="0" unit="1" enabled="0" self-snapping="0" mode="2">
     <individual-layer-settings>
-      <layer-setting units="1" enabled="0" type="1" id="svi_vrhovi_5__waypoints_debe33e5_cdb9_441a_beb3_d18b893bf96d" tolerance="12"/>
+      <layer-setting units="1" minScale="0" type="1" tolerance="12" maxScale="0" id="Vrhovi_u_Srbiji_za_sajt_99fc19f8_6ff4_466a_b112_45c0a3b48638" enabled="0"/>
     </individual-layer-settings>
   </snapping-settings>
   <relations/>
   <mapcanvas name="theMapCanvas" annotationsVisible="1">
-    <units>degrees</units>
+    <units>unknown</units>
     <extent>
-      <xmin>19.99883162140468329</xmin>
-      <ymin>43.30062254259497223</ymin>
-      <xmax>20.24883162140468329</xmax>
-      <ymax>43.55062254259497223</ymax>
+      <xmin>-43342052.05971746146678925</xmin>
+      <ymin>-48008105.41648901998996735</ymin>
+      <xmax>87366009.92418496310710907</xmax>
+      <ymax>63344646.31723847985267639</ymax>
     </extent>
     <rotation>0</rotation>
-    <destinationsrs>
-      <spatialrefsys>
-        <wkt>GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]]</wkt>
-        <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
-        <srsid>3452</srsid>
-        <srid>4326</srid>
-        <authid>EPSG:4326</authid>
-        <description>WGS 84</description>
-        <projectionacronym>longlat</projectionacronym>
-        <ellipsoidacronym>WGS84</ellipsoidacronym>
-        <geographicflag>true</geographicflag>
-      </spatialrefsys>
-    </destinationsrs>
     <rendermaptile>0</rendermaptile>
     <expressionContextScope/>
   </mapcanvas>
   <projectModels/>
   <legend updateDrawingOrder="true">
-    <legendlayer name="svi vrhovi 5, waypoints" checked="Qt::Checked" showFeatureCount="0" drawingOrder="-1" open="true">
-      <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="svi_vrhovi_5__waypoints_debe33e5_cdb9_441a_beb3_d18b893bf96d" visible="1"/>
+    <legendlayer name="Vrhovi_u_Srbiji_za sajt" open="true" drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile layerid="Vrhovi_u_Srbiji_za_sajt_99fc19f8_6ff4_466a_b112_45c0a3b48638" visible="1" isInOverview="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer name="OpenStreetMap" checked="Qt::Checked" showFeatureCount="0" drawingOrder="-1" open="true">
-      <filegroup hidden="false" open="true">
-        <legendlayerfile isInOverview="0" layerid="OpenStreetMap_81944271_11bd_413c_ac14_536711431ce7" visible="1"/>
+    <legendlayer name="OpenStreetMap" open="true" drawingOrder="-1" checked="Qt::Checked" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile layerid="OpenStreetMap_81944271_11bd_413c_ac14_536711431ce7" visible="1" isInOverview="0"/>
       </filegroup>
     </legendlayer>
   </legend>
@@ -153,7 +140,7 @@
     <expressionContextScope/>
   </mapcanvas>
   <projectlayers>
-    <maplayer hasScaleBasedVisibilityFlag="0" refreshOnNotifyMessage="" styleCategories="AllStyleCategories" maxScale="0" refreshOnNotifyEnabled="0" minScale="1e+08" type="raster" autoRefreshEnabled="0" autoRefreshTime="0">
+    <maplayer styleCategories="AllStyleCategories" autoRefreshTime="0" minScale="1e+08" refreshOnNotifyMessage="" type="raster" maxScale="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0">
       <extent>
         <xmin>-20037508.34278924390673637</xmin>
         <ymin>-20037508.34278925508260727</ymin>
@@ -161,7 +148,7 @@
         <ymax>20037508.34278924390673637</ymax>
       </extent>
       <id>OpenStreetMap_81944271_11bd_413c_ac14_536711431ce7</id>
-      <datasource>type=xyz&amp;url=https://tile.openstreetmap.org/%7Bz%7D/%7Bx%7D/%7By%7D.png&amp;zmax=19&amp;zmin=0</datasource>
+      <datasource>crs=EPSG:3857&amp;format&amp;type=xyz&amp;url=https://tile.openstreetmap.org/%7Bz%7D/%7Bx%7D/%7By%7D.png&amp;zmax=19&amp;zmin=0</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -216,11 +203,17 @@
         <Removable>1</Removable>
         <Searchable>0</Searchable>
       </flags>
+      <temporal fetchMode="0" enabled="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
       <customproperties>
         <property value="Undefined" key="identify/format"/>
       </customproperties>
       <pipe>
-        <rasterrenderer nodataColor="" alphaBand="-1" type="singlebandcolordata" opacity="1" band="1">
+        <rasterrenderer type="singlebandcolordata" opacity="1" nodataColor="" alphaBand="-1" band="1">
           <rasterTransparency/>
           <minMaxOrigin>
             <limits>None</limits>
@@ -231,36 +224,36 @@
             <stdDevFactor>2</stdDevFactor>
           </minMaxOrigin>
         </rasterrenderer>
-        <brightnesscontrast brightness="0" contrast="0"/>
-        <huesaturation colorizeGreen="128" saturation="0" colorizeRed="255" colorizeStrength="100" colorizeBlue="128" grayscaleMode="0" colorizeOn="0"/>
+        <brightnesscontrast contrast="0" brightness="0"/>
+        <huesaturation colorizeBlue="128" colorizeGreen="128" grayscaleMode="0" colorizeOn="0" colorizeStrength="100" saturation="0" colorizeRed="255"/>
         <rasterresampler maxOversampling="2"/>
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer simplifyDrawingHints="1" autoRefreshEnabled="0" hasScaleBasedVisibilityFlag="0" simplifyAlgorithm="0" refreshOnNotifyMessage="" wkbType="Point" refreshOnNotifyEnabled="0" minScale="100000000" labelsEnabled="0" readOnly="0" simplifyMaxScale="1" type="vector" simplifyDrawingTol="1" geometry="Point" simplifyLocal="1" autoRefreshTime="0" maxScale="0" styleCategories="AllStyleCategories">
+    <maplayer labelsEnabled="0" autoRefreshTime="0" minScale="100000000" simplifyAlgorithm="0" simplifyLocal="1" hasScaleBasedVisibilityFlag="0" type="vector" simplifyMaxScale="1" simplifyDrawingTol="1" geometry="Point" simplifyDrawingHints="1" refreshOnNotifyEnabled="0" readOnly="0" autoRefreshEnabled="0" styleCategories="AllStyleCategories" maxScale="0" wkbType="Point" refreshOnNotifyMessage="">
       <extent>
-        <xmin>19.13061666700000174</xmin>
+        <xmin>19.13061666666666838</xmin>
         <ymin>41.85745000000000005</ymin>
         <xmax>23.00655000000000072</xmax>
-        <ymax>45.1584833329999995</ymax>
+        <ymax>45.15943333333333243</ymax>
       </extent>
-      <id>svi_vrhovi_5__waypoints_debe33e5_cdb9_441a_beb3_d18b893bf96d</id>
-      <datasource>../../Documents/PSS/Vrhovi Srbije/_pss.rs/svi vrhovi 5.8.2020..gpx?type=waypoint</datasource>
+      <id>Vrhovi_u_Srbiji_za_sajt_99fc19f8_6ff4_466a_b112_45c0a3b48638</id>
+      <datasource>file:../../Documents/PSS/Vrhovi%20Srbije/_pss.rs/Vrhovi_u_Srbiji_za%20sajt.csv?type=csv&amp;delimiter=;&amp;maxFields=10000&amp;detectTypes=yes&amp;xyDms=yes&amp;xField=IGD&amp;yField=SG%C5%A0&amp;crs=EPSG:4326&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=no</datasource>
       <keywordList>
         <value></value>
       </keywordList>
-      <layername>svi vrhovi 5, waypoints</layername>
+      <layername>Vrhovi_u_Srbiji_za sajt</layername>
       <srs>
         <spatialrefsys>
-          <wkt>GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]]</wkt>
-          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
-          <srsid>3452</srsid>
-          <srid>4326</srid>
-          <authid>EPSG:4326</authid>
-          <description>WGS 84</description>
-          <projectionacronym>longlat</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>true</geographicflag>
+          <wkt>PROJCS["MGI 1901 / Balkans zone 7",GEOGCS["MGI 1901",DATUM["MGI_1901",SPHEROID["Bessel 1841",6377397.155,299.1528128,AUTHORITY["EPSG","7004"]],TOWGS84[682,-203,480,0,0,0,0],AUTHORITY["EPSG","1031"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","3906"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",21],PARAMETER["scale_factor",0.9999],PARAMETER["false_easting",7500000],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AUTHORITY["EPSG","3909"]]</wkt>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=21 +k=0.9999 +x_0=7500000 +y_0=0 +ellps=bessel +towgs84=682,-203,480,0,0,0,0 +units=m +no_defs</proj4>
+          <srsid>27356</srsid>
+          <srid>3909</srid>
+          <authid>EPSG:3909</authid>
+          <description>MGI 1901 / Balkans zone 7</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
         </spatialrefsys>
       </srs>
       <resourceMetadata>
@@ -288,7 +281,7 @@
         </crs>
         <extent/>
       </resourceMetadata>
-      <provider encoding="UTF-8">gpx</provider>
+      <provider encoding="">delimitedtext</provider>
       <vectorjoins/>
       <layerDependencies/>
       <dataDependencies/>
@@ -303,33 +296,39 @@
         <Removable>1</Removable>
         <Searchable>1</Searchable>
       </flags>
-      <renderer-v2 forceraster="0" type="singleSymbol" symbollevels="0" enableorderby="0">
+      <temporal endExpression="" startField="" fixedDuration="0" startExpression="" durationUnit="min" enabled="0" endField="" durationField="" accumulate="0" mode="0">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <renderer-v2 type="singleSymbol" forceraster="0" enableorderby="0" symbollevels="0">
         <symbols>
-          <symbol name="0" alpha="1" type="marker" force_rhr="0" clip_to_extent="1">
-            <layer class="SimpleMarker" pass="0" enabled="1" locked="0">
-              <prop k="angle" v="0"/>
-              <prop k="color" v="231,113,72,255"/>
-              <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="name" v="circle"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="35,35,35,255"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0"/>
-              <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="scale_method" v="diameter"/>
-              <prop k="size" v="2"/>
-              <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
-              <prop k="size_unit" v="MM"/>
-              <prop k="vertical_anchor_point" v="1"/>
+          <symbol name="0" type="marker" alpha="1" force_rhr="0" clip_to_extent="1">
+            <layer locked="0" pass="0" class="SimpleMarker" enabled="1">
+              <prop v="0" k="angle"/>
+              <prop v="141,90,153,255" k="color"/>
+              <prop v="1" k="horizontal_anchor_point"/>
+              <prop v="bevel" k="joinstyle"/>
+              <prop v="circle" k="name"/>
+              <prop v="0,0" k="offset"/>
+              <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+              <prop v="MM" k="offset_unit"/>
+              <prop v="35,35,35,255" k="outline_color"/>
+              <prop v="solid" k="outline_style"/>
+              <prop v="0" k="outline_width"/>
+              <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+              <prop v="MM" k="outline_width_unit"/>
+              <prop v="diameter" k="scale_method"/>
+              <prop v="2" k="size"/>
+              <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+              <prop v="MM" k="size_unit"/>
+              <prop v="1" k="vertical_anchor_point"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option name="name" value="" type="QString"/>
+                  <Option name="name" type="QString" value=""/>
                   <Option name="properties"/>
-                  <Option name="type" value="collection" type="QString"/>
+                  <Option name="type" type="QString" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
@@ -338,66 +337,62 @@
         <rotation/>
         <sizescale/>
       </renderer-v2>
-      <customproperties>
-        <property key="dualview/previewExpressions">
-          <value>"name"</value>
-        </property>
-      </customproperties>
+      <customproperties/>
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerOpacity>1</layerOpacity>
-      <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
         <activeChecks type="StringList">
-          <Option value="" type="QString"/>
+          <Option type="QString" value=""/>
         </activeChecks>
         <checkConfiguration/>
       </geometryOptions>
       <referencedLayers/>
       <referencingLayers/>
       <fieldConfiguration>
-        <field name="name">
+        <field name="VRH">
           <editWidget type="">
             <config>
               <Option/>
             </config>
           </editWidget>
         </field>
-        <field name="elevation">
+        <field name="PLANINA ILI PREDEO">
           <editWidget type="">
             <config>
               <Option/>
             </config>
           </editWidget>
         </field>
-        <field name="comment">
+        <field name="NV">
           <editWidget type="">
             <config>
               <Option/>
             </config>
           </editWidget>
         </field>
-        <field name="description">
+        <field name="SGŠ">
           <editWidget type="">
             <config>
               <Option/>
             </config>
           </editWidget>
         </field>
-        <field name="source">
+        <field name="IGD">
           <editWidget type="">
             <config>
               <Option/>
             </config>
           </editWidget>
         </field>
-        <field name="url">
+        <field name="SEKCIJA">
           <editWidget type="">
             <config>
               <Option/>
             </config>
           </editWidget>
         </field>
-        <field name="url name">
+        <field name="REGIJA">
           <editWidget type="">
             <config>
               <Option/>
@@ -406,58 +401,49 @@
         </field>
       </fieldConfiguration>
       <aliases>
-        <alias index="0" name="" field="name"/>
-        <alias index="1" name="" field="elevation"/>
-        <alias index="2" name="" field="comment"/>
-        <alias index="3" name="" field="description"/>
-        <alias index="4" name="" field="source"/>
-        <alias index="5" name="" field="url"/>
-        <alias index="6" name="" field="url name"/>
+        <alias name="" field="VRH" index="0"/>
+        <alias name="" field="PLANINA ILI PREDEO" index="1"/>
+        <alias name="" field="NV" index="2"/>
+        <alias name="" field="SGŠ" index="3"/>
+        <alias name="" field="IGD" index="4"/>
+        <alias name="" field="SEKCIJA" index="5"/>
+        <alias name="" field="REGIJA" index="6"/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <defaults>
-        <default applyOnUpdate="0" expression="" field="name"/>
-        <default applyOnUpdate="0" expression="" field="elevation"/>
-        <default applyOnUpdate="0" expression="" field="comment"/>
-        <default applyOnUpdate="0" expression="" field="description"/>
-        <default applyOnUpdate="0" expression="" field="source"/>
-        <default applyOnUpdate="0" expression="" field="url"/>
-        <default applyOnUpdate="0" expression="" field="url name"/>
+        <default expression="" field="VRH" applyOnUpdate="0"/>
+        <default expression="" field="PLANINA ILI PREDEO" applyOnUpdate="0"/>
+        <default expression="" field="NV" applyOnUpdate="0"/>
+        <default expression="" field="SGŠ" applyOnUpdate="0"/>
+        <default expression="" field="IGD" applyOnUpdate="0"/>
+        <default expression="" field="SEKCIJA" applyOnUpdate="0"/>
+        <default expression="" field="REGIJA" applyOnUpdate="0"/>
       </defaults>
       <constraints>
-        <constraint unique_strength="0" notnull_strength="0" constraints="0" field="name" exp_strength="0"/>
-        <constraint unique_strength="0" notnull_strength="0" constraints="0" field="elevation" exp_strength="0"/>
-        <constraint unique_strength="0" notnull_strength="0" constraints="0" field="comment" exp_strength="0"/>
-        <constraint unique_strength="0" notnull_strength="0" constraints="0" field="description" exp_strength="0"/>
-        <constraint unique_strength="0" notnull_strength="0" constraints="0" field="source" exp_strength="0"/>
-        <constraint unique_strength="0" notnull_strength="0" constraints="0" field="url" exp_strength="0"/>
-        <constraint unique_strength="0" notnull_strength="0" constraints="0" field="url name" exp_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="VRH" notnull_strength="0" unique_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="PLANINA ILI PREDEO" notnull_strength="0" unique_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="NV" notnull_strength="0" unique_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="SGŠ" notnull_strength="0" unique_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="IGD" notnull_strength="0" unique_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="SEKCIJA" notnull_strength="0" unique_strength="0"/>
+        <constraint exp_strength="0" constraints="0" field="REGIJA" notnull_strength="0" unique_strength="0"/>
       </constraints>
       <constraintExpressions>
-        <constraint desc="" field="name" exp=""/>
-        <constraint desc="" field="elevation" exp=""/>
-        <constraint desc="" field="comment" exp=""/>
-        <constraint desc="" field="description" exp=""/>
-        <constraint desc="" field="source" exp=""/>
-        <constraint desc="" field="url" exp=""/>
-        <constraint desc="" field="url name" exp=""/>
+        <constraint field="VRH" desc="" exp=""/>
+        <constraint field="PLANINA ILI PREDEO" desc="" exp=""/>
+        <constraint field="NV" desc="" exp=""/>
+        <constraint field="SGŠ" desc="" exp=""/>
+        <constraint field="IGD" desc="" exp=""/>
+        <constraint field="SEKCIJA" desc="" exp=""/>
+        <constraint field="REGIJA" desc="" exp=""/>
       </constraintExpressions>
       <expressionfields/>
       <attributeactions>
         <defaultAction value="{00000000-0000-0000-0000-000000000000}" key="Canvas"/>
       </attributeactions>
-      <attributetableconfig sortExpression="&quot;description&quot;" actionWidgetStyle="dropDown" sortOrder="1">
-        <columns>
-          <column name="name" hidden="0" type="field" width="329"/>
-          <column name="elevation" hidden="0" type="field" width="-1"/>
-          <column name="comment" hidden="0" type="field" width="-1"/>
-          <column name="description" hidden="0" type="field" width="-1"/>
-          <column name="source" hidden="0" type="field" width="-1"/>
-          <column name="url" hidden="0" type="field" width="-1"/>
-          <column name="url name" hidden="0" type="field" width="-1"/>
-          <column hidden="1" type="actions" width="-1"/>
-        </columns>
+      <attributetableconfig sortExpression="" sortOrder="0" actionWidgetStyle="dropDown">
+        <columns/>
       </attributetableconfig>
       <conditionalstyles>
         <rowstyles/>
@@ -473,14 +459,15 @@
       <editorlayout>generatedlayout</editorlayout>
       <editable/>
       <labelOnTop/>
+      <dataDefinedFieldProperties/>
       <widgets/>
-      <previewExpression>"name"</previewExpression>
+      <previewExpression></previewExpression>
       <mapTip></mapTip>
     </maplayer>
   </projectlayers>
   <layerorder>
     <layer id="OpenStreetMap_81944271_11bd_413c_ac14_536711431ce7"/>
-    <layer id="svi_vrhovi_5__waypoints_debe33e5_cdb9_441a_beb3_d18b893bf96d"/>
+    <layer id="Vrhovi_u_Srbiji_za_sajt_99fc19f8_6ff4_466a_b112_45c0a3b48638"/>
   </layerorder>
   <properties>
     <DefaultStyles>
@@ -491,6 +478,9 @@
       <Opacity type="double">1</Opacity>
       <RandomColors type="bool">true</RandomColors>
     </DefaultStyles>
+    <Digitizing>
+      <AvoidIntersectionsMode type="int">2</AvoidIntersectionsMode>
+    </Digitizing>
     <Gui>
       <CanvasColorBluePart type="int">255</CanvasColorBluePart>
       <CanvasColorGreenPart type="int">255</CanvasColorGreenPart>
@@ -589,6 +579,13 @@
     </WMTSPngLayers>
     <WMTSUrl type="QString"></WMTSUrl>
   </properties>
+  <dataDefinedServerProperties>
+    <Option type="Map">
+      <Option name="name" type="QString" value=""/>
+      <Option name="properties"/>
+      <Option name="type" type="QString" value="collection"/>
+    </Option>
+  </dataDefinedServerProperties>
   <visibility-presets/>
   <transformContext/>
   <projectMetadata>
@@ -617,17 +614,18 @@
   <ProjectViewSettings UseProjectScales="0">
     <Scales/>
   </ProjectViewSettings>
+  <ProjectTimeSettings timeStep="1" frameRate="1" cumulativeTemporalRange="0" timeStepUnit="h"/>
   <ProjectDisplaySettings>
     <BearingFormat id="bearing">
       <Option type="Map">
-        <Option name="decimal_separator" value="" type="QChar"/>
-        <Option name="decimals" value="6" type="int"/>
-        <Option name="direction_format" value="0" type="int"/>
-        <Option name="rounding_type" value="0" type="int"/>
-        <Option name="show_plus" value="false" type="bool"/>
-        <Option name="show_thousand_separator" value="true" type="bool"/>
-        <Option name="show_trailing_zeros" value="false" type="bool"/>
-        <Option name="thousand_separator" value="" type="QChar"/>
+        <Option name="decimal_separator" type="QChar" value=""/>
+        <Option name="decimals" type="int" value="6"/>
+        <Option name="direction_format" type="int" value="0"/>
+        <Option name="rounding_type" type="int" value="0"/>
+        <Option name="show_plus" type="bool" value="false"/>
+        <Option name="show_thousand_separator" type="bool" value="true"/>
+        <Option name="show_trailing_zeros" type="bool" value="false"/>
+        <Option name="thousand_separator" type="QChar" value=""/>
       </Option>
     </BearingFormat>
   </ProjectDisplaySettings>
