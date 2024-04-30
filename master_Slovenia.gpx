@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <gpx creator="Garmin Explore App" version="1.1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Garmin Explore App">
 	<metadata>
 		<name><![CDATA[🇸🇮 SLO]]></name>
 		<link href="http://www.garmin.com">
@@ -8,7 +10,7 @@
 		<time>2024-04-30T11:42:42Z</time>
 	</metadata>
 	<wpt lat="46.378297" lon="13.836583">
-		<ele>2741.283935546875</ele>
+		<ele>2741.283936</ele>
 		<time>2021-05-14T09:00:05Z</time>
 		<name>Triglav</name>
 		<sym>Triangle, Blue</sym>
@@ -20,21 +22,25 @@
 		<sym>Building</sym>
 	</wpt>
 	<wpt lat="46.22512" lon="13.8293">
+		<ele>952.000000</ele>
 		<time>2021-04-17T14:25:10Z</time>
 		<name>HL CP2</name>
 		<sym>Campground</sym>
 	</wpt>
 	<wpt lat="46.24471" lon="13.57887">
+		<ele>237.000000</ele>
 		<time>2021-04-18T05:58:17Z</time>
 		<name>HL FINISH</name>
 		<sym>Flag, Blue</sym>
 	</wpt>
 	<wpt lat="46.1848" lon="13.73798">
+		<ele>178.000000</ele>
 		<time>2021-04-17T19:16:26Z</time>
 		<name>HL CP3</name>
 		<sym>Campground</sym>
 	</wpt>
 	<wpt lat="46.2778" lon="13.88706">
+		<ele>533.000000</ele>
 		<time>2021-04-17T00:00:00Z</time>
 		<name>HL START</name>
 		<sym>Building</sym>
@@ -43,14 +49,19 @@
 		<ele>1143.75732421875</ele>
 		<time>2024-04-30T11:28:33Z</time>
 		<name>Planinski dom Majerhold Katja Majerhold s.p.</name>
+		<desc>www.majerhold.si</desc>
+		<link href="https://www.majerhold.si/">
+		</link>
 		<sym>Lodge</sym>
 	</wpt>
 	<wpt lat="46.22259" lon="13.97874">
+		<ele>609.000000</ele>
 		<time>2021-04-17T08:45:12Z</time>
 		<name>HL CP1</name>
 		<sym>Campground</sym>
 	</wpt>
 	<wpt lat="46.20206" lon="13.6005">
+		<ele>692.000000</ele>
 		<time>2021-04-18T00:21:50Z</time>
 		<name>HL CP4</name>
 		<sym>Campground</sym>
@@ -58,9 +69,6 @@
 	<trk>
 		<name>LM 2023 - 42 km</name>
 		<extensions>
-			<gpxx:TrackExtension>
-				<gpxx:DisplayColor>LightBlue</gpxx:DisplayColor>
-			</gpxx:TrackExtension>
 		</extensions>
 		<trkseg>
 			<trkpt lat="46.054108023643494" lon="14.504353523254395">
@@ -6252,9 +6260,6 @@
 	<trk>
 		<name>2022-10-22 13:57:54</name>
 		<extensions>
-			<gpxx:TrackExtension>
-				<gpxx:DisplayColor>Blue</gpxx:DisplayColor>
-			</gpxx:TrackExtension>
 		</extensions>
 		<trkseg>
 			<trkpt lat="46.050854086875916" lon="14.505414724349976">
@@ -27542,9 +27547,6 @@
 	<trk>
 		<name>ljubljana HM 2022</name>
 		<extensions>
-			<gpxx:TrackExtension>
-				<gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
-			</gpxx:TrackExtension>
 		</extensions>
 		<trkseg>
 			<trkpt lat="46.04844546318054" lon="14.50165605545044">
@@ -55644,9 +55646,6 @@
 	<trk>
 		<name>HL Slovenia 2021 1</name>
 		<extensions>
-			<gpxx:TrackExtension>
-				<gpxx:DisplayColor>Blue</gpxx:DisplayColor>
-			</gpxx:TrackExtension>
 		</extensions>
 		<trkseg>
 			<trkpt lat="46.27779996395111" lon="13.887060046195984">
